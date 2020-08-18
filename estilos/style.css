@@ -4,16 +4,29 @@
 }
 
 body{
-    background-color: aqua;
     
+    background-color: aqua;
+   
+   } 
 }
 
 main {
+    
     background-color: blueviolet;
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: cadetblue;
-
-
+    
+}
+h2 {
+    background-color: blueviolet;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+   box-shadow: cadetblue;
+   text-emphasis-color:blue ;
+}
+img.lado{
+    float: rigth;
 }
